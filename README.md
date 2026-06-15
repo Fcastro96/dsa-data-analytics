@@ -12,5 +12,6 @@ Repositório dedicado aos meus estudos e projetos em Data Analytics e Business I
 - Power BI
 - DAX
 - Power Query
+- - Python
 - SQL (futuro)
-- Python (futuro)
+
